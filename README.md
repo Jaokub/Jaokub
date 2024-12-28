@@ -1,7 +1,5 @@
-# About me 👽
-I'm Mantawit Ketphan or you can call me Janjao sdfds
-
-from Computer Engineering and Digital technology Chulalongkorn University
+# Hello, I'm Janjao 👽
+I'm Computer Engineering Studen at Chulalongkorn University
 
 
 # 💫 My Skills 
